@@ -53,4 +53,4 @@ async def on_message(message):
         await message.channel.send(response)
 
 
-client.run('Njg2MjI5NTM5NzA5NjQ4OTU2.XmeYFQ.DOqXxrmuSCcyty7Ktca9q6y8o1I')
+client.run('Njg2MjI5NTM5NzA5NjQ4OTU2.XmefqA.86D7K2mPeuNBLr-Z_m9LsAoVXbs')
